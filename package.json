@@ -12,8 +12,8 @@
   }
   "keywords": [],
   "author": "Esenia Karpova 1132236008@pfur.ru",
-  "license": "CC-BY-4.0"
-   "config": {
+  "license": "CC-BY-4.0",
+  "config": {
         "commitizen": {
             "path": "cz-conventional-changelog"
         }
